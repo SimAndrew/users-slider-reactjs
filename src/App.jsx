@@ -1,5 +1,11 @@
+import Carousel from './Carousel.jsx';
+
 function App() {
-	return <h1>Users Slider</h1>;
+	return (
+		<main>
+			<Carousel />
+		</main>
+	);
 }
 
 export default App;
