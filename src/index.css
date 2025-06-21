@@ -376,6 +376,7 @@ ul {
 
 .slick-slide img {
 	display: inline-block;
+	margin: auto;
 }
 
 .slick-prev::before {
